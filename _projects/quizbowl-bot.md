@@ -2,8 +2,9 @@
 layout: post
 title: QuizBot
 description: First functional voice-based quizbowl system. Same format as official online tournaments, power points included.
-redirect: 
+redirect:
 thumbnail: /assets/images/projects/QuizBot.png
+importance: 9
 ---
 
 

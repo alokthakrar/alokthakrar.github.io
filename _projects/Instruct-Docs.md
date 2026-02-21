@@ -4,6 +4,7 @@ title: DPEA Instructional Documents
 description: Training curriculum for 12th graders in the Dos Pueblos Engineering Academy
 thumbnail: /assets/images/projects/inst.png
 redirect: https://dpengineering.github.io/softdev-training/Exercises/LinuxCommandLine.html
+importance: 8
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.

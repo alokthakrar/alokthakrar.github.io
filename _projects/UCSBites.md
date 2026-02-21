@@ -4,6 +4,7 @@ title: UCSBites
 description: Pairing users togerher in dining halls based on multimodal preferences using vector databases. 
 thumbnail: /assets/images/projects/bites.png
 redirect: https://devpost.com/software/ucsbites
+importance: 7
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.

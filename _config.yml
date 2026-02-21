@@ -42,6 +42,8 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
+      - perch.md
+      - bailando.md
       - gantry-game.md
       - eloify.md
       - kinetic-sculpture.md
@@ -54,10 +56,6 @@ collections:
       - LSB.md
       - Robotics23-24.md
       - Robotics22-23.md
-      
-
-  timeline:
-    output: false
 
 
 sass:

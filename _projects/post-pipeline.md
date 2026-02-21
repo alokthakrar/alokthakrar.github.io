@@ -3,6 +3,7 @@ layout: post
 title: Brainrot Generator
 description: Uses open source TTS models, MoviePy, and Reddit + YouTube APIs to automate reddit stories.  
 thumbnail: /assets/images/projects/brainrot.png
+importance: 11
 ---
 
 Brainrot Pipeline

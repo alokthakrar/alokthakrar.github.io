@@ -4,6 +4,7 @@ title: Gantry Game
 description: Gantry robot that can draw portraits through CV + robotics.
 thumbnail: /assets/images/projects/gg.png
 redirect: https://2024mechatronicsalokthakrar.weebly.com/capstone
+importance: 2
 ---
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
 
